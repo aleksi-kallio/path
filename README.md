@@ -20,3 +20,9 @@ For example:
 should display `/a/b/c/x`.
 
 There are tests the class should pass in the `tests` folder.
+
+Document and format the code as usual, assuming production level quality.
+
+You can use any online resources or ask for help.
+
+In the end, create a pull request for the solution.
