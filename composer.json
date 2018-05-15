@@ -1,0 +1,13 @@
+{
+    "name": "aleksikallio/rekry",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^7.1"
+    },
+    "authors": [
+        {
+            "name": "Aleksi Kallio",
+            "email": "aleksi.kallio@flashnode.com"
+        }
+    ]
+}
